@@ -4,5 +4,11 @@
     "start_url": "/",
 "background_color": "#0098da",
 "theme_color": "#98ddaa",
-"display": "fullscreen"
+"display": "fullscreen",
+"icon":[
+    {
+ "src": "Rectangle 12.png",
+ "type": "Image.png"
+    }
+]
 }
